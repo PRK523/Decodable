@@ -1,8 +1,3 @@
-# Decodable-Swift4 ( GitInfo iOS App) 
+App showing JSON parsed data of Github account on UICollection View
 
-Demo app showing Decodable in Swift 4. JSON Parsing made so east 
-
-# GitInfo iOS App 
-
-Enter your github name get GithUb info 
 
